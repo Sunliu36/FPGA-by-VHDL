@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Wed May 10 17:07:08 2023
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Lite Edition
+Revision Name : hw9
+Top-level Entity Name : Debouncing2
+Family : MAX 10
+Total logic elements : 7
+    Total combinational functions : 7
+    Dedicated logic registers : 5
+Total registers : 5
+Total pins : 3
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0

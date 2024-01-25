@@ -1,0 +1,7 @@
+
+State Machine - |Mealy_Ex|NS
+Name NS.S3 NS.S2 NS.S1 NS.S0 
+NS.S0 0 0 0 0 
+NS.S1 0 0 1 1 
+NS.S2 0 1 0 1 
+NS.S3 1 0 0 1 

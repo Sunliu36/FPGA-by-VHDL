@@ -1,0 +1,33 @@
+|Encoder8_3
+EN => Mux0.IN512
+EN => Mux1.IN512
+EN => Mux2.IN512
+A[0] => Mux0.IN520
+A[0] => Mux1.IN520
+A[0] => Mux2.IN520
+A[1] => Mux0.IN519
+A[1] => Mux1.IN519
+A[1] => Mux2.IN519
+A[2] => Mux0.IN518
+A[2] => Mux1.IN518
+A[2] => Mux2.IN518
+A[3] => Mux0.IN517
+A[3] => Mux1.IN517
+A[3] => Mux2.IN517
+A[4] => Mux0.IN516
+A[4] => Mux1.IN516
+A[4] => Mux2.IN516
+A[5] => Mux0.IN515
+A[5] => Mux1.IN515
+A[5] => Mux2.IN515
+A[6] => Mux0.IN514
+A[6] => Mux1.IN514
+A[6] => Mux2.IN514
+A[7] => Mux0.IN513
+A[7] => Mux1.IN513
+A[7] => Mux2.IN513
+Y[0] <= Mux2.DB_MAX_OUTPUT_PORT_TYPE
+Y[1] <= Mux1.DB_MAX_OUTPUT_PORT_TYPE
+Y[2] <= Mux0.DB_MAX_OUTPUT_PORT_TYPE
+
+

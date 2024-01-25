@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/hw602/simulation/qsim
+vhard_block
+Z1 !s110 1680080330
+!i10b 1
+!s100 BBd6ALLAON=ReWPh_4B0<3
+IF?NaaYPH@c8H9]:KGIgl71
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+Z3 w1680080327
+Z4 8hw602.vo
+Z5 Fhw602.vo
+L0 309
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1680080329.000000
+Z8 !s107 hw602.vo|
+Z9 !s90 -work|work|hw602.vo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vhw602
+R1
+!i10b 1
+!s100 cmlD0]0D>I^djcF=5GNSR3
+IN9H9nToC6XM32Z5VV5G<A0
+R2
+R0
+R3
+R4
+R5
+L0 31
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vhw602_vlg_vec_tst
+R1
+!i10b 1
+!s100 jJ55YUSV7^FmRRJlP4?Oa2
+IB@HJY;gO]JS=^V4;Vhj9f2
+R2
+R0
+w1680080325
+8Waveform.vwf.vt
+FWaveform.vwf.vt
+L0 29
+R6
+r1
+!s85 0
+31
+!s108 1680080330.000000
+!s107 Waveform.vwf.vt|
+!s90 -work|work|Waveform.vwf.vt|
+!i113 1
+R10
+R11

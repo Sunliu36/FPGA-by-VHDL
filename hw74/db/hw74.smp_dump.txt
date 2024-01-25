@@ -1,0 +1,7 @@
+
+State Machine - |mealy|ns
+Name ns.s3 ns.s2 ns.s1 ns.s0 
+ns.s0 0 0 0 0 
+ns.s1 0 0 1 1 
+ns.s2 0 1 0 1 
+ns.s3 1 0 0 1 

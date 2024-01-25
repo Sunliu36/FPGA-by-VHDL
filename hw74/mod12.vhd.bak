@@ -1,0 +1,23 @@
+library IEEE;
+Use IEEE.std_logic_1164.all 
+
+Entity mod12 is
+    Port(
+        PulseIn: in std_logic;
+        Q: out std_logic_vector(3 downto 0));
+
+architecture arch of mod12 is
+    Component dff1
+        Port(CL,CK,T: in std_logic;
+            Q, Qbar: out std_logic) ;
+        signal cl: std_logic ;
+        signal tmp1: std_logic_vector(4 downto 0) ;
+        siganl tmp2: std_logic_vector(3 downto 0) ;
+    begin
+        tmp1(0) <= PulseIn ;
+        for I in 0 to 4 generate --記得for形式就是python，後面記得generate
+            dff1 Port Map(cl,tmp1(I),'1',tmp2(I),tmp1(I+1));--記得是Port Map(....)
+        END generate ; --記得是end generate
+        CL <= tmp2(2) and tmp2(3) ;
+        Q <= tmp2
+    end arch ;
